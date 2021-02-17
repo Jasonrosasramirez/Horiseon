@@ -1,3 +1,10 @@
+body {
+    background-color: rgba(131, 163, 224, 0.658);
+}
+
 #blueBox{
+    background-color: rgb(34, 215, 221);
     color: blue;
+    width: 400px;
+    height: 60px;
 }
